@@ -1,5 +1,4 @@
 data/ind.*
-models
 __pycache__
 data/*.*.*
 data/*shuffle*
